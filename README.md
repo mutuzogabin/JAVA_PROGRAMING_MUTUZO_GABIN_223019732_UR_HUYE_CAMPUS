@@ -1,0 +1,12 @@
+GROUP 26
+PROJECT TITLE: NGO Project Tracking System
+
+GROUP MEMBERS: 1.MUTUZO SHEMA GABIN      223019732
+               2.UMUGWANEZA MERVEILLE    222004557
+               3.NDAHIRO	Emmanuel       223017094
+
+
+
+
+
+
